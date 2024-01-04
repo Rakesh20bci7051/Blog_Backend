@@ -16,9 +16,12 @@ The best feature of website is Jwt Authentication which is Token based Authentic
 
 **1.Dependencies:**
 
-. For Backend
+For Backend
+
 1.Java jdk version >=17
+
 2.Lombok      link:https://projectlombok.org/download 
+
 3.Mysql server  version>=8
 
 **How to run the project:**
