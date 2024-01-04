@@ -5,5 +5,7 @@
 
 **Architecture and ER diagram:**
 
+
 ![image](https://github.com/Rakesh20bci7051/Blog_Backend/assets/120373597/0f0fa75e-c5c4-4151-bcc5-f9bc2bf2b6e6)
 
+![Uploading image.png…]()
