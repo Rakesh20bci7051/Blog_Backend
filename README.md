@@ -52,6 +52,9 @@ Note: I would suggest Spring tool suite
 
 **5.** congrats you did you your project is running!!
 
+<img width="931" alt="Screenshot 2024-01-04 152015" src="https://github.com/Rakesh20bci7051/Blog_Backend/assets/120373597/65bc9170-ddcd-4c94-a541-ea14165497b9">
+
+
 
 **Now Move to the Front end Part!!**
 
