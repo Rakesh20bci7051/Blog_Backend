@@ -3,4 +3,7 @@
 
 **Frameworks:**  The Java Spring boot has been used for Backend and Mysql server for data storage
 
-![pic](https://github.com/Rakesh20bci7051/Blog_Backend/assets/120373597/71aa863e-ea4b-4465-98a7-7153e195ebf3)
+**Architecture and ER diagram:**
+
+![image](https://github.com/Rakesh20bci7051/Blog_Backend/assets/120373597/0f0fa75e-c5c4-4151-bcc5-f9bc2bf2b6e6)
+
